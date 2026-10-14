@@ -2,14 +2,15 @@
 
 ## About Me
 
-Name: [Your Name]
+Name: Bryan Velasco
 Major: Computer Science
 
-## Skills
+## Skill
 
-- Programming: C++, JavaScript
+- Programming: Python, Java, C++, JavaScript
 - Git: Advanced
-- Database: SQL
+- Web Development: HTML, CSS
+- Database: SQL>>>>>>> desktop-updates
 
 ## Projects
 
