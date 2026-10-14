@@ -5,12 +5,12 @@
 Name: Bryan Velasco
 Major: Computer Science
 
-## Skill
+## Skills
 
 - Programming: Python, Java, C++, JavaScript
 - Git: Advanced
 - Web Development: HTML, CSS
-- Database: SQL>>>>>>> desktop-updates
+- Database: SQL
 
 ## Projects
 
