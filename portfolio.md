@@ -1,16 +1,21 @@
 # My Portfolio
 
 ## About Me
-Name: [Your Name]
+
+Name: Bryan Velasco
 Major: Computer Science
 
 ## Skills
-- Programming: Basic
-- Git: Learning
+
+- Programming: Python, Java
+- Git: Intermediate
+- Web Development: HTML, CSS
 
 ## Projects
+
 - Project 1: TBD
 - Project 2: TBD
 
 ## Contact
+
 Email: student@university.edu
